@@ -32,7 +32,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - [Live Site URL](https://smb78998.github.io/p_fm_social-proof-section-master/)
 
 ## My process
